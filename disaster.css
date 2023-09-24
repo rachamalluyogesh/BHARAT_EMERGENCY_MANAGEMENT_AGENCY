@@ -1,0 +1,67 @@
+span {
+    font-size: 90px;
+    color: red;
+}
+
+button {
+    font-size: 30px;
+}
+
+body {
+    background-color:orange;
+}
+
+#search{
+    display: flex;
+    gap: 100px;
+}
+#searchbar{
+    width: 500px;
+    height: 50px;
+    margin-top: 65px;
+    font-size: large;
+
+}
+#submit{
+    margin-left: -100px;
+    width: auto;
+    height: 50px;
+    font-size: large;
+    margin-top: 65px;
+}
+
+
+img,
+a {
+    margin-left: 0px;
+}
+
+div{
+    margin: 20px;
+    background-color:lightblue;
+}
+
+#container {
+    width: 100%;
+    height: auto;
+    font-size:large;
+
+    padding: 15px;
+
+}
+#img2{
+    width: 50px;
+}
+#div2{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background: none;
+}
+.div3{
+    padding: 15px;
+    font-size:large;
+}
+#headding{
+font-size:25px;
+}
